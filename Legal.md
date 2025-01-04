@@ -1,12 +1,12 @@
 # Disclaimer
 - The information presented here is for informational purposes only and does not constitute legal advice, nor is it a replacement for reading license text. If there is a conflict between this text and any of the attached licenses/agreements, or other agreements with SpaceKobold those agreements take precedence.
 
-# To contribute you or your legal guardian (or employer if they have a legal right to your contributions) must agree to the SpaceKoboldGames [Contributor Agreement](https://gist.github.com/SpaceKoboldGames/63bdf4b32036c005e90cb6cdb7df8e0e) 
+## To contribute you or your legal guardian (or employer if they have a legal right to your contributions) must agree to the [Space Kobold Games Contributor Agreement](https://gist.github.com/SpaceKoboldGames/63bdf4b32036c005e90cb6cdb7df8e0e) 
 
 This process is automated, with a bot prompting you to agree to the CA when you open your first PR. This may also be done by sending an email with the subject "\<your name\> CA Agreement", with a signed version of the agreement.
 
 Non-legalese summary of the terms of this agreement (This is not a replacement for reading the agreement):
-- **You keep your copyright for <u>your contribution</u>**, and **Non-exclusively** grant us *the same rights to use your contribution*. Please note this does not grant you any rights to *the project as a whole* outside of those specified in the project license.
+- __*You keep your copyright for <u>your contribution*__, and **Non-exclusively** grant us *the same rights to use your contribution*. Please note this does not grant you any rights to *the project as a whole* outside of those specified in the project license.
 - The CA only applies to *your original contributions*, not works submitted under an approved license or other negotiated license.
 - You have a legal right to attribution (moral rights) in the credits of the project, please tell us if you wish to opt out of being displayed in the credits or wish to use an alternative name.
 - If you patent or have patented any parts of your contribution, you give us the right to those use those patents in respect to the project.

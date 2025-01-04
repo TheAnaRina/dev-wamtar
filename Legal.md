@@ -17,7 +17,7 @@ Non-legalese summary of the terms of this agreement (This is not a replacement f
 # Licensing/Attribution:
 - Unless specified otherwise, all Assets, Code, or Content inside any _AlphaParadox folder, fall under the terms specified in AP-LICENSE.txt and the Space Kobold Games CLA (SpaceKoboldGames.com/legal/CLA-Individual).
 - Any content from SpaceWizards/SpaceStation14 without specified licensing of any code is licensed under MIT (LICENSE.txt). Any Space Wizards content licensed under CC-BY-SA to Space Wizards Federation & Contributors.
-You may not apply secondary licenses to SpaceKobolds/AlphaParadox code/content (MPL Exhibit-B) without written permission from Space Kobolds (in this case, we will grant you a separate license). This is to ensure that Alpha-Paradox's code is available for improvement by the community and to prevent further fragmentation of the community due to license conflicts.
+__**You may not apply secondary licenses to SpaceKobolds/AlphaParadox code/content (MPL Exhibit-B). If you wish to use our code/content with a secondary license while migrating away from GPL, please contact us and we may grant you a separate license. This is to make sure that Alpha-Paradox's code is available to be improved by the community and prevent further fragmenting the community due to license conflicts.**__
 
 # Non-Permitted licenses:
 The following licenses are not permitted to be used in this project:

@@ -17,20 +17,18 @@ Non-legalese summary of the terms of this agreement (This is not a replacement f
 # Licensing/Attribution:
 - Unless specified otherwise, all Assets, Code, or Content inside any **\_AlphaParadox, AlphaParadox, or \_APCore folders**, fall under the terms specified in AP-LICENSE.txt and the [Space Kobold Games CLA](https://gist.github.com/SpaceKoboldGames/a8f6b7a7d272cf949c60e0822cdf226e).
 - Any content from SpaceWizards/SpaceStation14 without specified licensing of any code is licensed under MIT (LICENSE.txt). Any Space Wizards content licensed under CC-BY-SA to Space Wizards Federation & Contributors.
-__**You may not apply secondary licenses to SpaceKobolds/AlphaParadox code/content (MPL Exhibit-B). If you wish to use our code/content with a secondary license while migrating away from GPL, please contact us and we may grant you a separate license. This is to make sure that Alpha-Paradox's code is available to be improved by the community and prevent further fragmenting the community due to license conflicts.**__
-
+- __**You may not apply secondary licenses to SpaceKobolds/AlphaParadox code/content (MPL Exhibit-B). If you wish to use our code/content with a secondary license while migrating away from GPL, please contact us and we may grant you a separate license. This is to make sure that Alpha-Paradox's code is available to be improved by the community and prevent fragmenting the community due to license conflicts.**__
+- **We are in the process of removing/replacing content that is currently not under an approved license.**
+- All code submitted by you where you hold the right to do so will be licensed under MPL 2.0 *with Exhibit B* to Space Kobold Games under the terms of the CLA, you still retain the rights and ownership of your contribution.
 # Approved licenses:
 The following licenses are permitted to be used in this project if you are not the original copyright owner:
 - The following Creative Commons 4.0 (or later) licenses: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.en), [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en), CC-[BY-ND](https://creativecommons.org/licenses/by-nd/4.0/legalcode.en),(ND licenses are discouraged, but accepted) or an earlier version with *permission from the author*.
 - [The MIT License](https://opensource.org/license/MIT)
-- [Mozilla Public License v2.0](https://www.mozilla.org/en-US/MPL/2.0/) *with* Exhibit B (No secondary licenses)
+- [Mozilla Public License v2.0](https://www.mozilla.org/en-US/MPL/2.0/), ideally *with* Exhibit B (No secondary licenses).
 - Public domain content under [CC0](https://creativecommons.org/public-domain/cc0/), etc. NOTE: The absence of a copyright mark means **all rights reserved** *not* public domain, public domain must be explicitly marked/stated. Attribution is still required for public domain works.
 ### Specifically not allowed:
 - Any "strong" Copyleft or GPL derivative licenses: GPL, AGPL, LGPL, SSPL, etc. (This conflicts with the no secondary license provision of the MPL)
 - Any license with strict or ambiguous non-commercial use limitations.
-
-**We are in the process of removing/replacing content that is currently not under an approved license.**
-
 # Attribution/Sourcing Requirements:
 - All assets *must* be properly licensed, attributed, and include the original title of the work. This also requires a link to the original author, and license and if needed provides a way to contact the author.
 - For audio files especially: **you must find the actual author not just a YouTube channel**. <u>If you cannot find the author/original license you cannot use the asset.</u> Failure to be able to provide sourcing information will result in your PR being closed and potentially barring from future contributions depending on the severity of the situation.

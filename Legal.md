@@ -1,7 +1,7 @@
 # Disclaimer
 - The information presented here is for informational purposes only and does not constitute legal advice, nor is it a replacement for reading license text. If there is a conflict between this text and any of the attached licenses/agreements, or other agreements with SpaceKobold those agreements take precedence.
 
-## To contribute you or your legal guardian (or employer if they have a legal right to your contributions) must agree to the [Space Kobold Games Contributor Agreement](https://gist.github.com/SpaceKoboldGames/63bdf4b32036c005e90cb6cdb7df8e0e) 
+## To contribute you or your legal guardian (or employer if they have a legal right to your contributions) must agree to the [Space Kobold Games Contributor Agreement](https://gist.github.com/SpaceKoboldGames/a8f6b7a7d272cf949c60e0822cdf226e) 
 
 This process is automated, with a bot prompting you to agree to the CA when you open your first PR. This may also be done by sending an email with the subject "\<your name\> CA Agreement", with a signed version of the agreement.
 

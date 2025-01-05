@@ -25,7 +25,7 @@ The following licenses are permitted to be used in this project if you are not t
 - [The MIT License](https://opensource.org/license/MIT)
 - Mozilla Public License v2.0
 - [Any Public Domain License/Pledge](https://en.wikipedia.org/wiki/Public_domain) for example CC0, [PDM symbol](https://en.wikipedia.org/wiki/Public_Domain_Mark), etc. NOTE: The absence of a copyright mark means **all rights reserved** *not* public domain, public domain must be explicitly marked/stated.
-## Specifically not allowed:
+### Specifically not allowed:
 - Any "strong" Copyleft or GPL derivative licenses: GPL, AGPL, LGPL, SSPL, etc. (This conflicts with the no secondary license provision of the MPL)
 - Any license with strict or ambiguous non-commercial use limitations.
 

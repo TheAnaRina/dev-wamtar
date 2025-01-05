@@ -20,6 +20,7 @@ Non-legalese summary of the terms of this agreement (This is not a replacement f
 - __**You may not apply secondary licenses to SpaceKobolds/AlphaParadox code/content (MPL Exhibit-B). If you wish to use our code/content with a secondary license while migrating away from GPL, please contact us and we may grant you a separate license. This is to make sure that Alpha-Paradox's code is available to be improved by the community and prevent fragmenting the community due to license conflicts.**__
 - **We are in the process of removing/replacing content that is currently not under an approved license.**
 - All code submitted by you where you hold the right to do so will be licensed under MPL 2.0 *with Exhibit B* to Space Kobold Games under the terms of the CLA, you still retain the rights and ownership of your contribution.
+- Contributing *sublicensed* MPL code *without Exhibit B* is permitted and compatible but those files must be clearly marked.
 # Approved licenses:
 The following licenses are permitted to be used in this project if you are not the original copyright owner:
 - The following Creative Commons 4.0 (or later) licenses: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.en), [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en), CC-[BY-ND](https://creativecommons.org/licenses/by-nd/4.0/legalcode.en),(ND licenses are discouraged, but accepted) or an earlier version with *permission from the author*.

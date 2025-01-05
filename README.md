@@ -16,7 +16,7 @@ Additionally, Space Wizards has its own [docs site](https://docs.spacestation14.
 
 ## Contributing
 
-Before you submit any contributions, you must agree to the [Space Kobold Games Contributor Agreement](https://gist.github.com/SpaceKoboldGames/63bdf4b32036c005e90cb6cdb7df8e0e). This agreement protects you and our community from legal liability while simplifying the copyright/licensing of the project. ***This agreement does not transfer your copyright! It only grants us a license to your contribution***. You should also read [Legal.md](https://github.com/Space-Kobold/Alpha-Paradox/blob/master/Legal.md) for a more in-depth explanation of the Contributor Agreement and other copyright/licensing/attribution requirements.
+Before you submit any contributions, you must agree to the [Space Kobold Games Contributor Agreement](https://gist.github.com/SpaceKoboldGames/a8f6b7a7d272cf949c60e0822cdf226e). This agreement protects you and our community from legal liability while simplifying the copyright/licensing of the project. ***This agreement does not transfer your copyright! It only grants us a license to your contribution***. You should also read [Legal.md](https://github.com/Space-Kobold/Alpha-Paradox/blob/master/Legal.md) for a more in-depth explanation of the Contributor Agreement and other copyright/licensing/attribution requirements.
 
 We are happy to accept contributions from anybody, feel free to [join our discord](http://discord.alpha-paradox.com) if you are interested! We've got a [list of issues](https://github.com/space-kobold/alpha-paradox/issues) that need to be done and anybody can pick them up. Don't be afraid to ask for help either!  
 Just make sure your changes and pull requests are per our [Contribution Guidelines](https://devwiki.alpha-paradox.com/index.php/Guide:ContributionGuidelines).
@@ -32,7 +32,7 @@ Just make sure your changes and pull requests are per our [Contribution Guidelin
 
 ## Licensing/Attribution:
 These are just the most important points, Please read [Legal.md](https://github.com/Space-Kobold/Alpha-Paradox/blob/master/Legal.md) for the specifics around licensing/attribution/copyright.
-- Unless specified otherwise, all Assets, Code, or Content inside any _AlphaParadox folder, fall under the terms specified in AP-LICENSE.txt and the [Space Kobold Games CLA](https://gist.github.com/SpaceKoboldGames/63bdf4b32036c005e90cb6cdb7df8e0e).
+- Unless specified otherwise, all Assets, Code, or Content inside any _AlphaParadox folder, fall under the terms specified in AP-LICENSE.txt and the [Space Kobold Games CLA](https://gist.github.com/SpaceKoboldGames/a8f6b7a7d272cf949c60e0822cdf226e).
 -  __**You may not apply secondary licenses to SpaceKobolds/AlphaParadox code/content (MPL Exhibit-B). If you wish to use our code/content with a secondary license while migrating away from GPL, please contact us and we may grant you a separate license. This is to make sure that Alpha-Paradox's code is available to be improved by the community and prevent further fragmenting the community due to license conflicts.**__
 - Any content from SpaceWizards/SpaceStation14 without specified licensing is licensed under MIT (LICENSE.txt). Most Space Wizards assets are licensed under [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) to Space Wizards Federation & Contributors unless another license is stated.
 

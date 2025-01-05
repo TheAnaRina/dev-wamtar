@@ -19,7 +19,7 @@ We are happy to accept contributions from anybody, feel free to [join our discor
 
 **Community Translations are always welcome!** However to ensure a high quality of translations, small/individual translations are not currently being accepted on their own. If a translation effort does not already exist for your language and you wish to organize one, please create a Github Issue or send Jezithyr a message on Discord to request starting an official translation project.
 
-For more information please read over [Contributing.md](https://github.com/Space-Kobold/Alpha-Paradox/blob/master/Contributing.md) or the [how to contribute guide](https://devwiki.alpha-paradox.com/index.php/Guide:HowToContribute) on the developer wiki.
+For more information please read over [Contributing.md](https://github.com/Space-Kobold/Alpha-Paradox/blob/master/Contributing.md) or the [how to contribute guide](https://devwiki.alpha-paradox.com/index.php/Guide:How_To_Contribute) on the developer wiki.
 
 ## Licensing/Attribution:
 These are just the most important points, Please read [Legal.md](https://github.com/Space-Kobold/Alpha-Paradox/blob/master/Legal.md) for the specifics around licensing/attribution/copyright.
@@ -27,6 +27,8 @@ These are just the most important points, Please read [Legal.md](https://github.
 -  __**You may not apply secondary licenses to SpaceKobolds/AlphaParadox code/content (MPL Exhibit-B). If you wish to use our code/content with a secondary license while migrating away from GPL, please contact us and we may grant you a separate license. This is to make sure that Alpha-Paradox's code is available to be improved by the community and prevent further fragmenting the community due to license conflicts.**__
 - Any content from SpaceWizards/SpaceStation14 without specified licensing is licensed under MIT (LICENSE.txt). Most Space Wizards assets are licensed under [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) to Space Wizards Federation & Contributors unless another license is stated.
 
-## Upstream Links
+# Forking Alpha-Paradox
+Alpha Paradox is 
 
+## Upstream Links
 [Wizden Discord](https://discord.ss14.io/) | [Wizden Forum](https://forum.spacestation14.io/) | [Steam](https://store.steampowered.com/app/1255460/Space_Station_14/) | [SS14 Website](https://spacestation14.io/) | [Standalone Download](https://spacestation14.io/about/nightlies/)

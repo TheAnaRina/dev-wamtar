@@ -23,7 +23,7 @@ __**You may not apply secondary licenses to SpaceKobolds/AlphaParadox code/conte
 The following licenses are permitted to be used in this project if you are not the original copyright owner:
 - The following Creative Commons 4.0 (or later) licenses: CC-BY, CC-BY-SA, CC-BY-ND, CC-BY-SA-ND (ND licenses are discouraged, but accepted) or an earlier version with *permission from the author*.
 - [The MIT License](https://opensource.org/license/MIT)
-- Mozilla Public License v2.0
+- Mozilla Public License v2.0 *with* Exhibit B (No secondary licenses)
 - [Any Public Domain License/Pledge](https://en.wikipedia.org/wiki/Public_domain) for example CC0, [PDM symbol](https://en.wikipedia.org/wiki/Public_Domain_Mark), etc. NOTE: The absence of a copyright mark means **all rights reserved** *not* public domain, public domain must be explicitly marked/stated.
 ### Specifically not allowed:
 - Any "strong" Copyleft or GPL derivative licenses: GPL, AGPL, LGPL, SSPL, etc. (This conflicts with the no secondary license provision of the MPL)

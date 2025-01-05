@@ -19,13 +19,17 @@ Non-legalese summary of the terms of this agreement (This is not a replacement f
 - Any content from SpaceWizards/SpaceStation14 without specified licensing of any code is licensed under MIT (LICENSE.txt). Any Space Wizards content licensed under CC-BY-SA to Space Wizards Federation & Contributors.
 __**You may not apply secondary licenses to SpaceKobolds/AlphaParadox code/content (MPL Exhibit-B). If you wish to use our code/content with a secondary license while migrating away from GPL, please contact us and we may grant you a separate license. This is to make sure that Alpha-Paradox's code is available to be improved by the community and prevent further fragmenting the community due to license conflicts.**__
 
-# Non-Permitted licenses:
-The following licenses are not permitted to be used in this project:
+# Approved licenses:
+The following licenses are permitted to be used in this project if you are not the original copyright owner:
+- The following Creative Commons 4.0 (or later) licenses: CC-BY, CC-BY-SA, CC-BY-ND, CC-BY-SA-ND (ND licenses are discouraged, but accepted) or an earlier version with *permission from the author*.
+- [The MIT License](https://opensource.org/license/MIT)
+- Mozilla Public License v2.0
+- [Any Public Domain License/Pledge](https://en.wikipedia.org/wiki/Public_domain) for example CC0, [PDM symbol](https://en.wikipedia.org/wiki/Public_Domain_Mark), etc. NOTE: The absence of a copyright mark means **all rights reserved** *not* public domain, public domain must be explicitly marked/stated.
+## Specifically not allowed:
 - Any "strong" Copyleft or GPL derivative licenses: GPL, AGPL, LGPL, SSPL, etc. (This conflicts with the no secondary license provision of the MPL)
-- Any license with strict or ambiguous "commercial use" restrictions: Any CC-BY-NC, Commons Clause, etc.
-- Any Creative Commons license *before* version 4.0 without permission from the original author
+- Any license with strict or ambiguous non-commercial use limitations.
 
-**We are in the process of removing/replacing content that is currently under these licenses.**
+**We are in the process of removing/replacing content that is currently not under an approved license.**
 
 # Attribution/Sourcing Requirements:
 - All assets *must* be properly licensed, attributed, and include the original title of the work. This also requires a link to the original author, and license and if needed provides a way to contact the author.

@@ -5,7 +5,8 @@ This is just a summary of important points, a more in-depth contributing guide c
 
 # We use a Contributor License Agreement
 - Before you submit any contributions, you must agree to the [Space Kobold Games Contributor Agreement](https://gist.github.com/SpaceKoboldGames/a8f6b7a7d272cf949c60e0822cdf226e). This is done by replying with "I have read the CLA Document and I hereby sign the CLA" when prompted about the CLA by GitHub actions in your first PR.
-- This agreement protects you and our community from legal liability while simplifying the copyright/licensing of the project. ***This agreement does not transfer your copyright! It only grants us a license to your contribution***. You should also read [Legal.md](https://github.com/Space-Kobold/Alpha-Paradox/blob/master/Legal.md) for a more in-depth explanation of the Contributor Agreement and other copyright/licensing/attribution requirements.
+- This agreement protects you and our community from legal liability while simplifying the copyright/licensing of the project. ***This agreement does not transfer your copyright! It only grants us a license to your contribution***. 
+- You should also read [Legal.md](https://github.com/Space-Kobold/Alpha-Paradox/blob/master/Legal.md) for a more in-depth explanation of the Contributor Agreement and other copyright/licensing/attribution requirements.
 
 ## Building
 

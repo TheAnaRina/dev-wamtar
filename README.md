@@ -16,18 +16,10 @@ Additionally, Space Wizards has its own [docs site](https://docs.spacestation14.
 
 ## Contributing
 We are happy to accept contributions from anybody, feel free to [join our discord](http://discord.alpha-paradox.com) if you are interested! We've got a [list of issues](https://github.com/space-kobold/alpha-paradox/issues) that need to be done and anybody can pick them up. Don't be afraid to ask for help either!  
-For more information please read over [Contributing.md](https://github.com/Space-Kobold/Alpha-Paradox/blob/master/Contributing.md) or the [how to contribute guide](https://devwiki.alpha-paradox.com/index.php/Guide:HowToContribute) on the developer wiki.
-Also, make sure that your changes and pull requests follow our [Contribution Guidelines](https://devwiki.alpha-paradox.com/index.php/Guide:ContributionGuidelines).
-
 
 **Community Translations are always welcome!** However to ensure a high quality of translations, small/individual translations are not currently being accepted on their own. If a translation effort does not already exist for your language and you wish to organize one, please create a Github Issue or send Jezithyr a message on Discord to request starting an official translation project.
-## Building
 
-1. Clone this repo.
-2. Run `RUN_THIS.py` to init submodules and download the engine.
-3. Compile the solution.
-
-[More detailed instructions on building the project.](https://docs.spacestation14.com/en/general-development/setup.html)
+For more information please read over [Contributing.md](https://github.com/Space-Kobold/Alpha-Paradox/blob/master/Contributing.md) or the [how to contribute guide](https://devwiki.alpha-paradox.com/index.php/Guide:HowToContribute) on the developer wiki.
 
 ## Licensing/Attribution:
 These are just the most important points, Please read [Legal.md](https://github.com/Space-Kobold/Alpha-Paradox/blob/master/Legal.md) for the specifics around licensing/attribution/copyright.

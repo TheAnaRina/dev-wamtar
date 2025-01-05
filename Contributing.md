@@ -1,7 +1,7 @@
 Please Note: This document is a work in progress and will be improved over time.
 
 # Developer Wiki/Documentation:
-This is just a summary of important points, a more in-depth contributing guide can be found on our [Developer Wiki](https://devwiki.alpha-paradox.com/index.php/Guide:HowToContribute)
+This is just a summary of important points, a more in-depth contributing guide can be found on our [Developer Wiki](https://devwiki.alpha-paradox.com/index.php/Guide:How_To_Contribute)
 
 ## Make sure that your changes and pull requests follow our [Contribution Guidelines](https://devwiki.alpha-paradox.com/index.php/Guide:Contribution_Guidelines).
 

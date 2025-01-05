@@ -3,7 +3,7 @@
 
 ## To contribute you or your legal guardian (or employer if they have a legal right to your contributions) must agree to the [Space Kobold Games Contributor Agreement](https://gist.github.com/SpaceKoboldGames/a8f6b7a7d272cf949c60e0822cdf226e) 
 
-This process is automated, with a bot prompting you to agree to the CA when you open your first PR. This may also be done by sending an email with the subject "\<your name\> CA Agreement", with a signed version of the agreement.
+This process is automated, with a bot prompting you to agree to the CLA when you open your first PR. This may also be done by sending an email with the subject "\<your name\> CA Agreement", with a signed version of the agreement.
 
 Non-legalese summary of the terms of this agreement (This is not a replacement for reading the agreement):
 - __*You keep your copyright for <u>your contribution*__, and **Non-exclusively** grant us *the same rights to use your contribution*. Please note this does not grant you any rights to *the project as a whole* outside of those specified in the project license.
@@ -15,7 +15,7 @@ Non-legalese summary of the terms of this agreement (This is not a replacement f
 - The CLA may be amended with 30 days of notice by email. *If you do not agree to the new CLA your contributions will be kept under the old version.*
 
 # Licensing/Attribution:
-- Unless specified otherwise, all Assets, Code, or Content inside any _AlphaParadox folder, fall under the terms specified in AP-LICENSE.txt and the Space Kobold Games CLA (SpaceKoboldGames.com/legal/CLA-Individual).
+- Unless specified otherwise, all Assets, Code, or Content inside any _AlphaParadox folder, fall under the terms specified in AP-LICENSE.txt and the [Space Kobold Games CLA](https://gist.github.com/SpaceKoboldGames/a8f6b7a7d272cf949c60e0822cdf226e.
 - Any content from SpaceWizards/SpaceStation14 without specified licensing of any code is licensed under MIT (LICENSE.txt). Any Space Wizards content licensed under CC-BY-SA to Space Wizards Federation & Contributors.
 __**You may not apply secondary licenses to SpaceKobolds/AlphaParadox code/content (MPL Exhibit-B). If you wish to use our code/content with a secondary license while migrating away from GPL, please contact us and we may grant you a separate license. This is to make sure that Alpha-Paradox's code is available to be improved by the community and prevent further fragmenting the community due to license conflicts.**__
 

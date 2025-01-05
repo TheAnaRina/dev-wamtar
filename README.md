@@ -23,9 +23,11 @@ For more information please read over [Contributing.md](https://github.com/Space
 
 ## Licensing/Attribution:
 These are just the most important points, Please read [Legal.md](https://github.com/Space-Kobold/Alpha-Paradox/blob/master/Legal.md) for the specifics around licensing/attribution/copyright.
-- Unless specified otherwise, all Assets, Code, or Content inside any **\_AlphaParadox, AlphaParadox, or \_APCore folders** folders, fall under the terms specified in AP-LICENSE.txt and the [Space Kobold Games CLA](https://gist.github.com/SpaceKoboldGames/a8f6b7a7d272cf949c60e0822cdf226e).
--  __**You may not apply secondary licenses to SpaceKobolds/AlphaParadox code/content (MPL Exhibit-B). If you wish to use our code/content with a secondary license while migrating away from GPL, please contact us and we may grant you a separate license. This is to make sure that Alpha-Paradox's code is available to be improved by the community and prevent further fragmenting the community due to license conflicts.**__
-- Any content from SpaceWizards/SpaceStation14 without specified licensing is licensed under MIT (LICENSE.txt). Most Space Wizards assets are licensed under [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) to Space Wizards Federation & Contributors unless another license is stated.
+- Unless specified otherwise, all Source Code, inside any **\_AlphaParadox, AlphaParadox, or \_APCore folders**, fall under the terms specified in AP-LICENSE.txt *with Exhibit B enforced* and the [Space Kobold Games CLA](https://gist.github.com/SpaceKoboldGames/a8f6b7a7d272cf949c60e0822cdf226e). All assets/content in those folders fall under CC-BY-SA 4.0.
+- Any content from SpaceWizards/SpaceStation14 without specified licensing of any code is licensed under MIT (LICENSE.txt). Any Space Wizards content licensed under CC-BY-SA to Space Wizards Federation & Contributors.
+- __**You may not apply secondary licenses to SpaceKobolds/AlphaParadox code/content (MPL Exhibit-B). If you wish to use our code/content with a secondary license while migrating away from GPL, please contact us and we may grant you a separate license. This is to make sure that Alpha-Paradox's code is available to be improved by the community and prevent fragmenting the community due to license conflicts.**__
+- All code submitted by you where you hold the right to do so will be licensed under MPL 2.0 *with Exhibit B* to Space Kobold Games under the terms of the CLA, you still retain the rights and ownership of your contribution. 
+- Contributing sublicensed MPL code *without Exhibit B* is permitted and compatible but those files must be clearly marked.
 
 # Forking Alpha-Paradox
 Alpha Paradox is 

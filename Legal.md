@@ -21,10 +21,10 @@ __**You may not apply secondary licenses to SpaceKobolds/AlphaParadox code/conte
 
 # Approved licenses:
 The following licenses are permitted to be used in this project if you are not the original copyright owner:
-- The following Creative Commons 4.0 (or later) licenses: CC-BY, CC-BY-SA, CC-BY-ND, CC-BY-SA-ND (ND licenses are discouraged, but accepted) or an earlier version with *permission from the author*.
+- The following Creative Commons 4.0 (or later) licenses: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.en), [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en), CC-[BY-ND](https://creativecommons.org/licenses/by-nd/4.0/legalcode.en),(ND licenses are discouraged, but accepted) or an earlier version with *permission from the author*.
 - [The MIT License](https://opensource.org/license/MIT)
-- Mozilla Public License v2.0 *with* Exhibit B (No secondary licenses)
-- [Any Public Domain License/Pledge](https://en.wikipedia.org/wiki/Public_domain) for example CC0, [PDM symbol](https://en.wikipedia.org/wiki/Public_Domain_Mark), etc. NOTE: The absence of a copyright mark means **all rights reserved** *not* public domain, public domain must be explicitly marked/stated.
+- [Mozilla Public License v2.0](https://www.mozilla.org/en-US/MPL/2.0/) *with* Exhibit B (No secondary licenses)
+- Public domain content under [CC0](https://creativecommons.org/public-domain/cc0/), etc. NOTE: The absence of a copyright mark means **all rights reserved** *not* public domain, public domain must be explicitly marked/stated. Attribution is still required for public domain works.
 ### Specifically not allowed:
 - Any "strong" Copyleft or GPL derivative licenses: GPL, AGPL, LGPL, SSPL, etc. (This conflicts with the no secondary license provision of the MPL)
 - Any license with strict or ambiguous non-commercial use limitations.

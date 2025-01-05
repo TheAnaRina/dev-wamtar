@@ -23,14 +23,16 @@ For more information please read over [Contributing.md](https://github.com/Space
 
 ## Licensing/Attribution:
 These are just the most important points, Please read [Legal.md](https://github.com/Space-Kobold/Alpha-Paradox/blob/master/Legal.md) for the specifics around licensing/attribution/copyright.
-- Unless specified otherwise, all Source Code, inside any **\_AlphaParadox, AlphaParadox, or \_APCore folders**, fall under the terms specified in AP-LICENSE.txt *with Exhibit B enforced* and the [Space Kobold Games CLA](https://gist.github.com/SpaceKoboldGames/a8f6b7a7d272cf949c60e0822cdf226e). All assets/content in those folders fall under CC-BY-SA 4.0.
-- Any content from SpaceWizards/SpaceStation14 without specified licensing of any code is licensed under MIT (LICENSE.txt). Any Space Wizards content licensed under CC-BY-SA to Space Wizards Federation & Contributors.
+- Unless specified otherwise, all Source Code, inside any **\_AlphaParadox, AlphaParadox, or \_APCore folders**, fall under the terms specified in AP-LICENSE.txt *with Exhibit B enforced* and the [Space Kobold Games CLA](https://gist.github.com/SpaceKoboldGames/a8f6b7a7d272cf949c60e0822cdf226e). All assets/content in those folders falls under CC-BY-SA 4.0 unless otherwise specified.
+- Any content from SpaceWizards/SpaceStation14 without specified licensing of any code is licensed under MIT (LICENSE.txt). Any Space Wizards content licensed under CC-BY-SA 3.0 to Space Wizards Federation & Contributors.
 - __**You may not apply secondary licenses to SpaceKobolds/AlphaParadox code/content (MPL Exhibit-B). If you wish to use our code/content with a secondary license while migrating away from GPL, please contact us and we may grant you a separate license. This is to make sure that Alpha-Paradox's code is available to be improved by the community and prevent fragmenting the community due to license conflicts.**__
 - All code submitted by you where you hold the right to do so will be licensed under MPL 2.0 *with Exhibit B* to Space Kobold Games under the terms of the CLA, you still retain the rights and ownership of your contribution. 
 - Contributing sublicensed MPL code *without Exhibit B* is permitted and compatible but those files must be clearly marked.
 
 # Forking Alpha-Paradox
-Alpha Paradox is 
+- You are welcome to fork Alpha Paradox or use any of our content or code in your Space Station Fork, *but please keep in mind our license and properly provide attribution*. Make sure to keep any licensing/attribution headers or files intact, and if you are merging code/content from us, add the appropriate headers.
+- ### Under MPL 2.0 Exhibit B, you are not permitted to use *any* Alpha Paradox Exhibit B code alongside GPL/LGPL/AGPL or "Strong" copyleft licensed code or assets.
+- You should disable or remove the CLA Github action found in .github/workflows/cla.yml (You can also modify it to be a simple attribution tracker or point it to your own CLA if you use one).
 
 ## Upstream Links
 [Wizden Discord](https://discord.ss14.io/) | [Wizden Forum](https://forum.spacestation14.io/) | [Steam](https://store.steampowered.com/app/1255460/Space_Station_14/) | [SS14 Website](https://spacestation14.io/) | [Standalone Download](https://spacestation14.io/about/nightlies/)

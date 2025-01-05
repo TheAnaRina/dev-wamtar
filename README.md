@@ -15,11 +15,10 @@ Alpha-Paradox has a [Developer Wiki](https://devwiki.alpha-paradox.com/index.php
 Additionally, Space Wizards has its own [docs site](https://docs.spacestation14.io/) which has good documentation on Wizden content, the engine, and more. We also have lots of resources for new contributors to the project.
 
 ## Contributing
-
-Before you submit any contributions, you must agree to the [Space Kobold Games Contributor Agreement](https://gist.github.com/SpaceKoboldGames/a8f6b7a7d272cf949c60e0822cdf226e). This agreement protects you and our community from legal liability while simplifying the copyright/licensing of the project. ***This agreement does not transfer your copyright! It only grants us a license to your contribution***. You should also read [Legal.md](https://github.com/Space-Kobold/Alpha-Paradox/blob/master/Legal.md) for a more in-depth explanation of the Contributor Agreement and other copyright/licensing/attribution requirements.
-
 We are happy to accept contributions from anybody, feel free to [join our discord](http://discord.alpha-paradox.com) if you are interested! We've got a [list of issues](https://github.com/space-kobold/alpha-paradox/issues) that need to be done and anybody can pick them up. Don't be afraid to ask for help either!  
-Just make sure your changes and pull requests are per our [Contribution Guidelines](https://devwiki.alpha-paradox.com/index.php/Guide:ContributionGuidelines).
+For more information please read over [Contributing.md](https://github.com/Space-Kobold/Alpha-Paradox/blob/master/Contributing.md) or the [how to contribute guide](https://devwiki.alpha-paradox.com/index.php/Guide:HowToContribute) on the developer wiki.
+Also, make sure that your changes and pull requests follow our [Contribution Guidelines](https://devwiki.alpha-paradox.com/index.php/Guide:ContributionGuidelines).
+
 
 **Community Translations are always welcome!** However to ensure a high quality of translations, small/individual translations are not currently being accepted on their own. If a translation effort does not already exist for your language and you wish to organize one, please create a Github Issue or send Jezithyr a message on Discord to request starting an official translation project.
 ## Building

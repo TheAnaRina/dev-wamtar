@@ -35,4 +35,4 @@ These are just the most important points, Please read [Legal.md](https://github.
 - You should disable or remove the CLA Github action found in .github/workflows/cla.yml (You can also modify it to be a simple attribution tracker or point it to your own CLA if you use one).
 
 ## Upstream Links
-[Wizden Discord](https://discord.ss14.io/) | [Wizden Forum](https://forum.spacestation14.io/) | [Steam](https://store.steampowered.com/app/1255460/Space_Station_14/) | [SS14 Website](https://spacestation14.io/) | [Standalone Download](https://spacestation14.io/about/nightlies/)
+[Wizden Github](https://github.com/space-wizards/space-station-14) [Wizden Discord](https://discord.ss14.io/) | [Wizden Forum](https://forum.spacestation14.io/) | [Steam](https://store.steampowered.com/app/1255460/Space_Station_14/) | [SS14 Website](https://spacestation14.io/) | [Standalone Download](https://spacestation14.io/about/nightlies/)

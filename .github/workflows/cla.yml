@@ -26,7 +26,7 @@ jobs:
           PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         with:
           path-to-signatures: 'Attribution/CLA-v1.json'
-          path-to-document: 'https://spacekoboldgames.com/legal/cla-individual' # e.g. a CLA or a DCO document
+          path-to-document: 'https://gist.github.com/SpaceKoboldGames/a8f6b7a7d272cf949c60e0822cdf226e' # e.g. a CLA or a DCO document
           # branch should not be protected
           branch: 'master'
           allowlist: jezithyrbot
